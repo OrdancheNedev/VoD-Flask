@@ -25,3 +25,9 @@ Filtering by genre
 
 ![Alt text](https://raw.githubusercontent.com/OrdancheNedev/VoD-Flask/master/image05.png)
 
+
+Window flexibility
+
+![Alt text](https://raw.githubusercontent.com/OrdancheNedev/VoD-Flask/master/image06.png)
+
+![Alt text](https://raw.githubusercontent.com/OrdancheNedev/VoD-Flask/master/image07.png)
