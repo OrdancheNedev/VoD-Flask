@@ -10,3 +10,8 @@ Main page
 Main page part 2
 
 ![Alt text](https://raw.githubusercontent.com/OrdancheNedev/VoD-Flask/master/image02.png)
+
+Streaming a video 
+
+![Alt text](https://raw.githubusercontent.com/OrdancheNedev/VoD-Flask/master/streaming.png)
+ 
