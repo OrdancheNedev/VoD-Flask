@@ -6,3 +6,7 @@ Main page
 
 ![Alt text](https://raw.githubusercontent.com/OrdancheNedev/VoD-Flask/master/image01.png)
 
+
+Main page part 2
+
+![Alt text](https://raw.githubusercontent.com/OrdancheNedev/VoD-Flask/master/image02.png)
