@@ -4,5 +4,5 @@ All videos and images that i have used are from pixabay.com. In the pixabay.txt 
 Main page 
 
 
-![Alt text] (https://raw.githubusercontent.com/OrdancheNedev/VoD-Flask/master/image01.png)
+![Alt text](https://raw.githubusercontent.com/OrdancheNedev/VoD-Flask/master/image01.png)
 
