@@ -15,3 +15,13 @@ Streaming a video
 
 ![Alt text](https://raw.githubusercontent.com/OrdancheNedev/VoD-Flask/master/streaming.png)
  
+Filtering by genre
+
+![Alt text](https://raw.githubusercontent.com/OrdancheNedev/VoD-Flask/master/image03.png)
+
+
+![Alt text](https://raw.githubusercontent.com/OrdancheNedev/VoD-Flask/master/image04.png)
+
+
+![Alt text](https://raw.githubusercontent.com/OrdancheNedev/VoD-Flask/master/image05.png)
+
