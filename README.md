@@ -2,4 +2,4 @@ This is a Video-on-demand web app. I developed it as a student project in order 
 All videos and images that i have used are from pixabay.com. In the pixabay.txt you can view the creators of the videos and images. 
 
 Main page 
-![Alt text] (https://drive.google.com/thumbnail?id=1u1K9LdjqNxhSu7Y343KVSS4AfkMmwhsj&sz=h4000)
+![Alt text] (https://drive.google.com/file/d/1u1K9LdjqNxhSu7Y343KVSS4AfkMmwhsj/view?usp=drive_link)
