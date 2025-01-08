@@ -1,0 +1,29 @@
+ [   
+    {"id":1, "image": "https://drive.google.com/thumbnail?id=1jC6l62uu7-sapaFyztgytLsg7cOME5IQ&sz=h4000", "video": "https://drive.google.com/file/d/1wnHe4g5MGzhJn84sm8dT2yOanqLhYuzM/preview", "title": "Movie 1", "genre": "Action"},
+    {"id":2, "image": "https://drive.google.com/thumbnail?id=1EAyM59_tethARSAtVoxTxd3U5yZ65M82&sz=h4000", "video": "https://drive.google.com/file/d/1w9WE-DaUymfZX0F-kqsQlZgZwwJf-j8E/preview", "title": "Movie 2", "genre": "Sci-Fi"},
+    {"id":3, "image": "https://drive.google.com/thumbnail?id=1MJsYcDzx-yVpVcvoAC4tmGG6VO5RdnTp&sz=h4000", "video": "https://drive.google.com/file/d/1GRmINS1S3Bx7tmFAFIySxaFAcUl86N3O/preview", "title": "Movie 3", "genre": "Horror"},
+
+    {"id":4, "image": "https://drive.google.com/thumbnail?id=19r-itscganwjq3jjUg5YCCb0FpD4P5is&sz=h4000", "video": "https://drive.google.com/file/d/1Gy0zyLHTq3NHyastrJ7UQc4tl1uLCMz4/preview", "title": "Movie 4", "genre": "Action"},
+    {"id":5, "image": "https://drive.google.com/thumbnail?id=1MSMVPMRL6Y2EAVSdf8BRVUYkCOld8Z1q&sz=h4000", "video": "https://drive.google.com/file/d/1zdr-N3Zd0zq-zWH1m7ZXGuli9o6O7_5I/preview", "title": "Movie 5", "genre": "Sci-Fi"},
+    {"id":6, "image": "https://drive.google.com/thumbnail?id=1fsIWNb5DwQik5dufQo-dcikQH8U3nh60&sz=h4000", "video": "https://drive.google.com/file/d/1ItRsIq4fzw9qkXVXiy_zQIDWfN4bIuLM/preview", "title": "Movie 6", "genre": "Horror"},
+    
+    {"id":7, "image": "https://drive.google.com/thumbnail?id=1HNWRoiQXer_cvDTbiVHf8InXvfHNnJOq&sz=h4000", "video": "https://drive.google.com/file/d/16jD6i9M_dzUlB8ZASz1kcgm1p8UOBDB_/preview", "title": "Movie 7", "genre": "Action"},
+    {"id":8, "image": "https://drive.google.com/thumbnail?id=12dkzpjkshGgtV9ZhydjMtqbIn9nVpOi2&sz=h4000", "video": "https://drive.google.com/file/d/17ZKBXdnN__xilxsrC6rfpzZuEanypHC1/preview", "title": "Movie 8", "genre": "Sci-Fi"},
+    {"id":9, "image": "https://drive.google.com/thumbnail?id=183g5A-hZ66zeSHKpDAf150AvMZ_KLWUZ&sz=h4000", "video": "https://drive.google.com/file/d/1iFngErXJA7lb_3OUZakc75l8vgP0BFxV/preview", "title": "Movie 9", "genre": "Horror"},
+
+    {"id":10,"image": "https://drive.google.com/thumbnail?id=1H3VwWPnYlbvd8bD0av4gIQj6fMPGUbbQ&sz=h4000", "video": "https://drive.google.com/file/d/1F7jpwG0fu-Q_ehPgRXv_yqxG_xm1eQje/preview", "title": "Movie 10", "genre": "Action"},
+    {"id":11,"image": "https://drive.google.com/thumbnail?id=1gc8F7mMVSuYuGRdMD0l7M_NPXFPtxc6g&sz=h4000", "video": "https://drive.google.com/file/d/1seYnQq48REMoPqmYVFnNZy0oEApFpncy/preview", "title": "Movie 11", "genre": "Sci-Fi"},
+    {"id":12,"image": "https://drive.google.com/thumbnail?id=1el2whdltOs8_PExeNXizt2QRtML01MUi&sz=h4000", "video": "https://drive.google.com/file/d/1KFe3WCa8_okHFjYiirbrx9vbJjijhsYL/preview", "title": "Movie 12", "genre": "Horror"},
+
+    {"id":13,"image": "https://drive.google.com/thumbnail?id=1PV70iMvdtiEIccKkDb8Pj6PPz5jSEn8R&sz=h4000", "video": "https://drive.google.com/file/d/1WYWIvb4GaBByrX1DDgzJjG6OSxrOpCdF/preview", "title": "Movie 13", "genre": "Action"},
+    {"id":14,"image": "https://drive.google.com/thumbnail?id=1i-k-lBFVwX9uS865GV3BdfeZ_RnwMCw9&sz=h4000", "video": "https://drive.google.com/file/d/1TZINTsE8DFEPRFJix2EOHfdFLiXteD9j/preview", "title": "Movie 14", "genre": "Sci-Fi"},
+    {"id":15,"image": "https://drive.google.com/thumbnail?id=1iWrgcm--wvwuF0zBKSbp86MyLu2W7e1z&sz=h4000", "video": "https://drive.google.com/file/d/1NLRwoCj07E3ff77mZMVkphM3CCAOGFgM/preview", "title": "Movie 15", "genre": "Horror"},
+
+    {"id":16,"image": "https://drive.google.com/thumbnail?id=1G8niL5hA7r-ZqCn5zY2YhE_bDYfrcxOQ&sz=h4000", "video": "https://drive.google.com/file/d/1SChrUlYo25A2az5dRlVUosRYvd2ICmna/preview", "title": "Movie 16", "genre": "Action"},
+    {"id":17,"image": "https://drive.google.com/thumbnail?id=1U2fP2MzCJpHZ45qlvUjRk6is7R078EEO&sz=h4000", "video": "https://drive.google.com/file/d/1SE06igv6QETZkysc6Rs6R6VLnb1-8NzW/preview", "title": "Movie 17", "genre": "Sci-Fi"},
+    {"id":18,"image": "https://drive.google.com/thumbnail?id=1YlpETzPb8WiutGIJ2N4SgySZrtE2WUhi&sz=h4000", "video": "https://drive.google.com/file/d/1532JNvCJeWnQmoKK-AcXSLdAQiP45xXG/preview", "title": "Movie 18", "genre": "Horror"},
+    
+    {"id":19,"image": "https://drive.google.com/thumbnail?id=1QlvDp3PdBPXk5vXBOXOgZ4S-BielCh91&sz=h4000", "video": "https://drive.google.com/file/d/10eFqbwJsdMo05oeGfI-fiwyPJZBKaYRT/preview", "title": "Movie 19", "genre": "Action"},
+    {"id":20,"image": "https://drive.google.com/thumbnail?id=1NBk01c9Io0d3DptoFqxOPGSAsX-g0k6e&sz=h4000", "video": "https://drive.google.com/file/d/1hxoeMHGSb4iIcSgya7whMMLLAkKUESvy/preview", "title": "Movie 20", "genre": "Sci-Fi"},
+    {"id":21,"image": "https://drive.google.com/thumbnail?id=1twu3AKuNPg0lbKhdt1ZXJkyp8GTyf87N&sz=h4000", "video": "https://drive.google.com/file/d/1C36nL_WHP7HoJQgIbj1xhRFebaiLkye-/preview", "title": "Movie 21", "genre": "Horror"}
+ ]
